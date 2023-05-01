@@ -1,0 +1,35 @@
+DPOutfits 0.1
+- Male overworld trainer sprite
+
+DPOutfits 0.2
+- Male animations except HM Summon
+
+DPOutfits 0.3
+- Male HM Summon
+- Male Battle Sprites
+- Male Hall of Fame
+
+DPOutfits 0.4
+- Male Trainer Card (CUSTOM)
+
+DPOutfits 0.5
+- Male Vs Seeker (CUSTOM/BAD)
+- Male "namein" (ONLY PALETTE SWAPPED)
+
+DPOutfits 0.6
+- Male Explorer Kit Animation
+- Male Pokedex Weight Comparison (ONLY PALETTE SWAPPED)
+- Male Map Icon
+
+DPOutfits 0.7
+- Bag
+- Bag Menu Icon
+
+YOU ARE HERE
+
+DPOutfits 0.8 (PLANNED)
+- Fix all bugs (namein sprite, dex comparison, intro running sprite, credits, vs seeker)
+- Final release with DP Lucas and Plat Dawn
+
+DPOutfits 1.0 (PLANNED Release)
+- DP Dawn
