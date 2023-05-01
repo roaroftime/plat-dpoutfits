@@ -1,6 +1,6 @@
 # plat-dpoutfits
 
-xdelta patch for Platinum (SHA1=ce81[...]) with DP outfits
+xdelta patch for Platinum (SHA1=ce81[...]) with DP outfits (currently only male)
 
 ## Usage:
 
